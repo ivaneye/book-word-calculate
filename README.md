@@ -1,0 +1,1 @@
+My english word collector write by Kotlin
