@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/Main.kt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ivaneye/book/calculate/analyzer/Analizer.kt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ivaneye/book/calculate/converter/Converter.kt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ivaneye/book/calculate/converter/impl/StringListConverter.kt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ivaneye/book/calculate/reader/Reader.kt" charset="UTF-8" />
+  </component>
+</project>
